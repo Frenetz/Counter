@@ -1,0 +1,81 @@
+* {
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  width: 100%;
+  margin-top: -50px;
+}
+
+p {
+  margin: 0;
+}
+
+.under-header {
+  margin-bottom: 20px;
+}
+
+.header,
+.under-header,
+.description,
+.counter {
+  text-align: center;
+}
+
+.header {
+  margin-top: -80px;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 20px;
+  color: white;
+}
+
+.days-counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(69, 69, 235);
+  border-radius: 10px;
+}
+
+.hours-counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(69, 69, 235);
+  border-radius: 10px;
+}
+
+.minutes-counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(69, 69, 235);
+  border-radius: 10px;
+}
+
+.seconds-counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(69, 69, 235);
+  border-radius: 10px;
+}
