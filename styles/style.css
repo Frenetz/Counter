@@ -48,6 +48,7 @@ p {
   padding: 10px;
   background-color: rgb(69, 69, 235);
   border-radius: 10px;
+  width: 70px;
 }
 
 .hours-counter {
@@ -58,6 +59,7 @@ p {
   padding: 10px;
   background-color: rgb(69, 69, 235);
   border-radius: 10px;
+  width: 70px;
 }
 
 .minutes-counter {
@@ -68,6 +70,7 @@ p {
   padding: 10px;
   background-color: rgb(69, 69, 235);
   border-radius: 10px;
+  width: 70px;
 }
 
 .seconds-counter {
@@ -78,4 +81,5 @@ p {
   padding: 10px;
   background-color: rgb(69, 69, 235);
   border-radius: 10px;
+  width: 70px;
 }
